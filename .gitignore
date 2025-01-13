@@ -290,7 +290,3 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python
 
 main.spec
-
-__pycache__/
-
-build/
